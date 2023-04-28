@@ -11,11 +11,8 @@ Um software developer apaixonado por tecnologia e as diversas possibilidades que
 
 ## **Informações:**  
 
-<div>
-  <a href="https://beacons.ai/RenanNeves21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanNeves21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
- 
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanNeves21&show_icons=true&theme=dracula)
   
 ## **Linguagens e Ferramentas:**  
  
@@ -28,8 +25,8 @@ Um software developer apaixonado por tecnologia e as diversas possibilidades que
   
 </div><br>
   
-  <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanNeves21&theme=dark&hide_langs_below=1" />
+ <a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanNeves21&theme=dracula&hide_langs_below=1" />
 </a>
 
 ## **Vamos nos Conectar:**
