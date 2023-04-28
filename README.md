@@ -6,8 +6,8 @@ Um software developer apaixonado por tecnologia e as diversas possibilidades que
 
 
 - 💻 Hoje trabalhando com front-end
-- 📚 Estudando PHP
-- 😀 Pronouns: ele/dele
+- ⌨ Estudando PHP
+- 📚 Acadêmico de Ciência da Computação
 
 ## **Informações:**  
 
