@@ -24,6 +24,8 @@ Um software developer apaixonado por tecnologia e as diversas possibilidades que
   <img align="center" alt="Renan-jquery" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="Renan-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Renan-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+  
+
 
  
   
@@ -49,6 +51,8 @@ Um software developer apaixonado por tecnologia e as diversas possibilidades que
   <a href = "mailto:renanpassos2103@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   <br>
+  
+ ![Snake animation](https://github.com/RenanNeves21/RenanNeves21/blob/output/github-contribution-grid-snake.svg)
   
 
 
