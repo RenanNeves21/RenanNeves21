@@ -52,7 +52,5 @@ Um software developer apaixonado por tecnologia e as diversas possibilidades que
 </div>
   <br>
   
- ![Snake animation](https://github.com/RenanNeves21/RenanNeves21/blob/output/github-contribution-grid-snake.svg)
-  
 
 
